@@ -1,0 +1,10 @@
+.kare{
+    width: 200px;
+    height: 200px;
+    display: inline-block; /*bu class a sahip olan divlerin yanyana gelmesini sağlar */
+}
+
+.d-inline-block {
+    display: inline-block;
+}
+
