@@ -8,3 +8,8 @@
     display: inline-block;
 }
 
+.jumbotron{
+    background-image: url(../assets/gokyuzu-1.jpg);
+    background-size: cover;
+    background-position: bottom;
+}
